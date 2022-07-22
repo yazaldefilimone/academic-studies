@@ -1,12 +1,12 @@
 #include <stdio.h>
- 
-int main() {
- 
-  // create a variable
-  int age = 25;
- 
-  // print the variable
-  printf("%d", age);
-  
-  return 0;
+
+int main()
+{
+  int i;
+  float f = 3.5;
+
+  printf(i);
+  printf(f);
+  return 0;b 
+
 }
