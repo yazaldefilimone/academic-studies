@@ -8,7 +8,7 @@
 </p>
 
 
-Here I begin my studies of algorithms and data structures.
+Here I  will put my academic studies.
 A long journey through the world of computer science that aims to become a great programmer and bring efficient solutions to the community is a big change in my professional life.
 
 ## Table of Contents
