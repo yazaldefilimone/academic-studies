@@ -14,8 +14,8 @@ A long journey through the world of computer science that aims to become a great
 ## Table of Contents
 
 - [C/C++](https://github.com/yazaldefilimonepinto/academic-studies/c-lang)
-- [Python](https://github.com/yazaldefilimonepinto/academic-studies/python)
-- [JavaScript](https://github.com/yazaldefilimonepinto/academic-studies/javascript)
+- [Python](https://github.com/yazaldefilimonepinto/academic-studies/python-lang)
+- [JavaScript](https://github.com/yazaldefilimonepinto/academic-studies/javascript-lang)
 
 
 <a id="license"></a>
