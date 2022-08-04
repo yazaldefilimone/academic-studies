@@ -1,4 +1,7 @@
-
 name = "Python"
-print(f"Hello {name}")
+
+
+def printName():
+  print(f"Hello {name}")
+
 
