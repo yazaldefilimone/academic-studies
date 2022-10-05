@@ -1,4 +1,3 @@
-# Academic Studies
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=Academic Studies&message=Welcome&color=FFFFFF&labelColor=110C2F" alt="Academic Studies!" />
   <img alt="License" src="https://img.shields.io/static/v1?label=version&message=1.0&color=FFFFFF&labelColor=110C2F">
@@ -20,8 +19,6 @@ A long journey through the world of computer science that aims to become a great
 
 <a id="license"></a>
 
-## License
+### License
 
-[MIT](https://github.com/yazaldefilimonepinto/academic-studies/blob/main/LICENSE) Project License
-
-Creator with 💙 by [Yazalde Filimone](https://www.linkedin.com/in/yazalde-filimone/)
+[MIT](https://github.com/yazaldefilimonepinto/academic-studies/blob/main/LICENSE) © [Yazalde Filimone](https://www.linkedin.com/in/yazalde-filimone/)
